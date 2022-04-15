@@ -14405,6 +14405,11 @@
       "FilePath": "c:\\Users\\armti\\Desktop\\coding_dojo\\c#\\asp.netcore\\First_ASP\\Views\\Hello\\index.cshtml",
       "TargetPath": "Views\\Hello\\index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\armti\\Desktop\\coding_dojo\\c#\\asp.netcore\\First_ASP\\Views\\Hello\\result.cshtml",
+      "TargetPath": "Views\\Hello\\result.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

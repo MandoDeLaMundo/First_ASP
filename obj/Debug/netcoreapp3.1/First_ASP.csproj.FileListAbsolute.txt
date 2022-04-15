@@ -29,3 +29,4 @@ C:\Users\armti\Desktop\coding_dojo\c#\asp.netcore\First_ASP\obj\Debug\netcoreapp
 C:\Users\armti\Desktop\coding_dojo\c#\asp.netcore\First_ASP\obj\Debug\netcoreapp3.1\First_ASP.Views.pdb
 C:\Users\armti\Desktop\coding_dojo\c#\asp.netcore\First_ASP\obj\Debug\netcoreapp3.1\First_ASP.csproj.CopyComplete
 C:\Users\armti\Desktop\coding_dojo\c#\asp.netcore\First_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Hello\index.cshtml.g.cs
+C:\Users\armti\Desktop\coding_dojo\c#\asp.netcore\First_ASP\obj\Debug\netcoreapp3.1\Razor\Views\Hello\result.cshtml.g.cs

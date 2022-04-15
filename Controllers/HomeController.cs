@@ -37,11 +37,14 @@ namespace First_ASP
             return Json(response);
         }
         // remember to use [HttpPost] attributes!
-        // [HttpPost]
-        // [Route("method")]
-        // public IActionResult Method(string TextField, int NumberField)
-        // {
-        //     // Do something with form input
-        // }
+        [HttpPost]
+        [Route("result")]
+        public IActionResult Result(string TextField, int NumberField)
+        {
+            // Do something with form input
+            ViewBag.TextField = TextField;
+            ViewBag.NumberField = NumberField;
+            return View();
+        }
     }
 }
